@@ -1,21 +1,14 @@
-{"users":[{"id":1,"first_name":"Sanderson","last_name":"Peizer"},
-{"id":2,"first_name":"Camila","last_name":"Mapplethorpe"},
-{"id":3,"first_name":"Brandy","last_name":"Lauxmann"},
-{"id":4,"first_name":"Gwyn","last_name":"Ambrozewicz"},
-{"id":5,"first_name":"Gaye","last_name":"Rulton"},
-{"id":6,"first_name":"Thekla","last_name":"Richings"},
-{"id":7,"first_name":"Vassily","last_name":"Oriel"},
-{"id":8,"first_name":"Valida","last_name":"Wrightim"},
-{"id":9,"first_name":"Bryan","last_name":"Maiden"},
-{"id":10,"first_name":"Dosi","last_name":"Claypole"},
-{"id":11,"first_name":"Adams","last_name":"Pyson"},
-{"id":12,"first_name":"Leonie","last_name":"Dymock"},
-{"id":13,"first_name":"Ruthann","last_name":"Peverell"},
-{"id":14,"first_name":"Tammy","last_name":"Pinckard"},
-{"id":15,"first_name":"Federica","last_name":"Hartas"},
-{"id":16,"first_name":"Batholomew","last_name":"Audritt"},
-{"id":17,"first_name":"Alfonso","last_name":"Napolitano"},
-{"id":18,"first_name":"Rosalyn","last_name":"Kirkwood"},
-{"id":19,"first_name":"Dorthy","last_name":"Skelcher"},
-{"id":20,"first_name":"Zachariah","last_name":"Grealy"}]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
