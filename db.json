@@ -1,4 +1,5 @@
 [
+  {"users" : [
   {"id":1,"first_name":"Sanderson","last_name":"Peizer"},
 {"id":2,"first_name":"Camila","last_name":"Mapplethorpe"},
 {"id":3,"first_name":"Brandy","last_name":"Lauxmann"},
@@ -20,3 +21,5 @@
 {"id":19,"first_name":"Dorthy","last_name":"Skelcher"},
 {"id":20,"first_name":"Zachariah","last_name":"Grealy"}
 ]
+  }
+  ]
