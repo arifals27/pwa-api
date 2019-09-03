@@ -1,4 +1,5 @@
-[{"id":1,"first_name":"Sanderson","last_name":"Peizer"},
+[
+  {"id":1,"first_name":"Sanderson","last_name":"Peizer"},
 {"id":2,"first_name":"Camila","last_name":"Mapplethorpe"},
 {"id":3,"first_name":"Brandy","last_name":"Lauxmann"},
 {"id":4,"first_name":"Gwyn","last_name":"Ambrozewicz"},
@@ -17,4 +18,5 @@
 {"id":17,"first_name":"Alfonso","last_name":"Napolitano"},
 {"id":18,"first_name":"Rosalyn","last_name":"Kirkwood"},
 {"id":19,"first_name":"Dorthy","last_name":"Skelcher"},
-{"id":20,"first_name":"Zachariah","last_name":"Grealy"}]
+{"id":20,"first_name":"Zachariah","last_name":"Grealy"}
+]
